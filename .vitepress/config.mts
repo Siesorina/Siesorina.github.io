@@ -15,17 +15,21 @@ export default defineConfig({
         text: '学习规划',
         items: [
           { text: '前言', link: '/guide/intro' },
-          { text: '数学基础', link: '/guide/math' },
+          {
+            text: '数学基础',
+            collapsed: false,   // true 则默认折叠
+            items: [
+              { text: '总览', link: '/guide/math/index' },
+              { text: '微积分', link: '/guide/math/calculus' },
+              { text: '线性代数', link: '/guide/math/linear' },
+              { text: '概率论', link: '/guide/math/probability' },
+            ]
+          },
           { text: '编程入门', link: '/guide/programming' },
           { text: '电子基础', link: '/guide/electronics' },
         ]
       },
-      {
-        text: '日常记录',
-        items: [
-          { text: '2026年4月', link: '/diary/2026-04' },
-        ]
-      }
+      // ...日常记录部分不变
     ],
     socialLinks: [
       { icon: 'github', link: 'https://github.com/Siesorina' }
