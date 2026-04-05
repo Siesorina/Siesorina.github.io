@@ -25,5 +25,5 @@ features:
   - icon: 🏸
     title: 兴趣爱好
     details: 羽毛球、Minecraft、二次元……人生不只有学习！
-    link: /guide/intro
+    link: /hobby/index
 ---

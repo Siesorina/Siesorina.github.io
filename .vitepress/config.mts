@@ -9,6 +9,7 @@ export default defineConfig({
       { text: '首页', link: '/' },
       { text: '学习规划', link: '/guide/intro' },
       { text: '日常记录', link: '/diary/index' },
+      { text: '兴趣爱好', link: '/hobby/index' },
     ],
     sidebar: [
       {
