@@ -20,10 +20,10 @@ export default defineConfig({
             text: '数学基础',
             collapsed: false,   // true 则默认折叠
             items: [
-              { text: '总览', link: '/guide/math/index' },
+              { text: 'Mathematics 总览', link: '/guide/math/index' },
               { text: '微积分', link: '/guide/math/calculus' },
-              { text: '线性代数', link: '/guide/math/linear' },
-              { text: '概率论', link: '/guide/math/probability' },
+              { text: '线性代数', link: '/guide/math/linear_algebra' },
+              { text: '概率论', link: '/guide/math/discrete_mathematics' },
             ]
           },
           { text: '编程入门', link: '/guide/programming' },
