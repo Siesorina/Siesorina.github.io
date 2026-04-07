@@ -1,6 +1,7 @@
 # Discrete Mathematics (离散数学)
 
 info 💡 学习策略
+
 我校老师讲得非常好，因此这门课不建议大家自学，**认真听讲+按时完成作业**即可。
 
  **避坑指南：** 经典教材：**《离散数学及其应用》(Discrete Mathematics and Its Applications)** 内容与国内通用教材重合度较高。如果你已经有了校内教材，**无需重复购买**。

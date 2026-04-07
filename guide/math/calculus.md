@@ -1,7 +1,7 @@
 # MIT 18.01/18.02: Calculus (微积分)
 
-Tip 课程资源快速跳转
-[🔗 MIT 18.01/18.02: Calculus - CS自学指南](https://csdiy.wiki/%E6%95%B0%E5%AD%A6%E5%9F%BA%E7%A1%80/Calculus/)
+Tip：课程资源快速跳转
+[🔗 MIT 18.01/18.02: Calculus - CS自学指南](https://csdiy.wiki/%E6%95%B0%E5%AD%A6%E5%9F%BA%E7%A1%80/MITmaths/)
 
 ## 📐 课程构成
 
