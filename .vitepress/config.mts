@@ -46,6 +46,7 @@ export default defineConfig({
             { text: '2026年4月', link: '/diary/2026-04' },
             // 以后在这里直接追加新日记的文件名就行啦，比如：
             // { text: '2026年5月', link: '/diary/2026-05' }
+            { text: '2026年5月', link: '/diary/2026-05' },
           ]
         }
       ],
